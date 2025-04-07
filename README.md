@@ -7,6 +7,8 @@ Inspired by https://www.youtube.com/watch?v=pnnx1bkFXng.
 
 ### Build
 
+Requires Zig 0.13.0.
+
 ```
 zig buiild
 ```
